@@ -1,0 +1,15 @@
+.left,
+.right {
+    font-size: 28px;
+    font-family: Helvetica;
+        }
+
+.left {
+    color: white;
+    background-color: rgb(8, 7, 7); 
+    }
+
+.right {
+    color: black;
+    background-color: rgb(239, 239, 10);
+    }
